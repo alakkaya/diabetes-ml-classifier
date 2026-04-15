@@ -1,4 +1,4 @@
-# Diabetes Prediction using Machine Learning - BIMU4088
+# Diabetes Prediction using Machine Learning
 
 ## Overview
 
